@@ -1,0 +1,39 @@
+# LaTeX-specific ignore file
+#
+# Auxiliary files (which can be safely ignored)
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.blg
+*.bbl
+*.idx
+*.ind
+*.ilg
+*.synctex.gz
+*.snm
+*.nav
+*.vrb
+*.dvi
+*.xdv
+*.ps
+*.eps
+*.data
+*.fdb_latexmk
+*.pyg
+*.mw
+
+# Intermediate documents (uncomment if you want to ignore them)
+# *.dvi
+# *-converted-to.* # might exclude image files for figures
+# *.ps
+# *.eps
+# *.pdf
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+*~
